@@ -13,8 +13,6 @@ import img1 from "./images/festa-junina-2024.jpg";
 import img2 from "./images/aniversario-mae-2024.jpg";
 import img3 from "./images/dormindo-no-sofa-2024.jpg";
 import img4 from "./images/aniversario-eugenia-2024.jpg";
-import img5 from "./images/pedido-baloes-2024.jpg";
-import img6 from "./images/pedido-selfie-2024.jpg";
 import img7 from "./images/aniversario-monique-2024.jpg";
 import img8 from "./images/final-de-semana-sorvete-2024.jpg";
 import img9 from "./images/primeira-viagem-2024.jpg";
@@ -24,9 +22,61 @@ import img12 from "./images/piri-restaurante-2024.jpg";
 import img13 from "./images/academia-2024.jpg";
 import img14 from "./images/natal-raissa-2024.jpg";
 import img15 from "./images/ano-novo-2024.jpg";
-// import img3 from "./images/your-next-photo.jpg";
+import img16 from "./images/santa-helena-gymrats-2025.jpg";
+import img17 from "./images/academia-poke-2025-1.jpg";
+import img18 from "./images/academia-poke-2025-2.jpg";
+import img19 from "./images/top-show-2025-1.jpg";
+import img20 from "./images/top-show-2025-2.jpg";
+import img21 from "./images/top-show-2025-3.jpg";
+import img22 from "./images/academia-poke-2025-3.jpg";
+import img23 from "./images/dormindo-selfie-2025.jpg";
+import img24 from "./images/familia-carro-2025.jpg";
+import img25 from "./images/voce-pelos-meus-olhos-2025.jpg";
+import img26 from "./images/aniversario-dele-2025-1.jpg";
+import img27 from "./images/aniversario-dele-2025-2.jpg";
+import img28 from "./images/viagem-santa-helena-apr-2025.jpg";
+import img29 from "./images/santa-helena-mai-2025.jpg";
+import img30 from "./images/dia-namorados-2025-1.jpg";
+import img31 from "./images/dia-namorados-2025-2.jpg";
+import img32 from "./images/aniversario-meu-2025-1.jpg";
+import img33 from "./images/aniversario-meu-2025-2.jpg";
+import img34 from "./images/quadrilha-escoteiros-2025.jpg";
+import img35 from "./images/santa-helena-jul-2025-1.jpg";
+import img36 from "./images/santa-helena-jul-2025-2.jpg";
+import img37 from "./images/passeio-luna-2025.jpg";
+import img38 from "./images/roxy-xovens-2025.jpg";
+import img39 from "./images/aniversario-lisandra-2025.jpg";
+import img40 from "./images/madero-2025.jpg";
+import img41 from "./images/brasilia-katy-2025-1.jpg";
+import img42 from "./images/brasilia-katy-2025-2.jpg";
+import img43 from "./images/ciao-ciao-2025-1.jpg";
+import img44 from "./images/ciao-ciao-2025-2.jpg";
+import img45 from "./images/aniversario-avo-2025.jpg";
+import img46 from "./images/cinema-1-2025.jpg";
+import img47 from "./images/dua-lipa-2025-1.jpg";
+import img48 from "./images/dua-lipa-2025-2.jpg";
+import img49 from "./images/dua-lipa-2025-3.jpg";
+import img50 from "./images/dua-lipa-2025-4.jpg";
+import img51 from "./images/piscininha-2025.jpg";
+import img52 from "./images/ano-novo-2026-1.jpg";
+import img53 from "./images/ano-novo-2026-2.jpg";
+import img54 from "./images/cinema-2-2026.jpg";
+import img55 from "./images/anitta-2026-1.jpg";
+import img56 from "./images/anitta-2026-2.jpg";
+import img57 from "./images/anitta-2026-3.jpg";
+import img5 from "./images/pedido-baloes-2024.jpg";
+import img6 from "./images/pedido-selfie-2024.jpg";
+import img58 from "./images/muro-alto-2026-1.jpg";
+import img59 from "./images/muro-alto-2026-2.jpg";
+import img60 from "./images/muro-alto-2026-3.jpg";
+import img61 from "./images/muro-alto-2026-4.jpg";
+import img62 from "./images/muro-alto-2026-5.jpg";
+import img63 from "./images/muro-alto-2026-6.jpg";
+import img64 from "./images/muro-alto-2026-7.jpg";
+import img65 from "./images/lolla-1.jpeg";
+import img66 from "./images/lolla-2.jpeg";
 
-// ── MOMENTS DATA ─────────────────────────────────────────────────────────────
+// // ── MOMENTS DATA ─────────────────────────────────────────────────────────────
 const moments = [
   {
     id: 1,
@@ -234,6 +284,473 @@ Mas muito especial por você estar ao meu lado. Era o que mais importava.`,
     image: img15,
     portrait: true,
   },
+  {
+    id: 13,
+    side: "left",
+    tag: "Cotidiano",
+    date: "04 de janeiro de 2025",
+    title: "Mais um final de semana em Santa Helena",
+    preview:
+      "Concorrendo ao gymrats com os meninos — e trapaceando descaradamente. Tudo para vencer. Rs",
+    story: `Mais um final de semana em Santa Helena, aqui estávamos concorrendo ao gymrats com os meninos.
+
+Nesse dia em específico a gente trapaceou. Lembro de você pegar a garrafinha de água para molhar a camiseta e parecer que tínhamos acabado de sair da academia, kkk.
+
+Que coisa feia. Tudo para vencer.`,
+    image: img16,
+    portrait: true,
+  },
+  {
+    id: 14,
+    side: "right",
+    tag: "Cotidiano",
+    date: "12 de janeiro de 2025",
+    title: "Academia e poke do fds",
+    preview:
+      "Você prometeu poke depois da academia. Na comida você me ganhava fácil.",
+    story: `Mais um final de semana você me levando para a academia contra minha vontade.
+
+Dessa vez eu fui porque você prometeu que me levaria pra almoçar poke depois que a gente terminasse de malhar. Na comida você me ganhava fácil.
+
+Tirei essa foto belíssima do meu monstrinho na academia. Como eu gosto de ficar te olhando.`,
+    images: [img17, img18, img22],
+    image: img17,
+    portrait: true,
+  },
+  {
+    id: 15,
+    side: "left",
+    tag: "Aventura",
+    date: "24 de janeiro de 2025",
+    title: "Show do Twenty One Pilots",
+    preview:
+      "Nossa primeira viagem de avião juntos. Fui aprender as músicas só pra poder cantar do seu lado.",
+    story: `Nossa primeira viagem de avião juntos. Estávamos indo para o show do TOP em São Paulo, estava bastante animado com essa viagem, muito animado e feliz.
+
+Sou muito feliz ao seu lado, me sinto muito sortudo e muito amado. Nos divertimos bastante, passei bastante tempo escutando as músicas para que eu pudesse pelo menos aprender algumas para que eu pudesse cantar durante o show e poder acompanhar o meu Spotify ambulante.
+
+Não é que no fim eu aprendi até muitas — me diverti bastante, pulei bastante, cantei bastante e me alegrava de ver sua alegria!`,
+    images: [img19, img20, img21],
+    image: img19,
+    portrait: true,
+  },
+  {
+    id: 16,
+    side: "right",
+    tag: "Cotidiano",
+    date: "28 de janeiro de 2025",
+    title: "Eu fazendo o que mais gosto",
+    preview:
+      "Cheguei em casa e fiz a coisa que mais estava gostando ultimamente: dormir. Você não perdeu a oportunidade, claro.",
+    story: `Aqui não lembro o que tínhamos feito, mas fizemos alguma coisa que me cansou bastante e sugou a minha bateria social, e chegando em casa, o que eu fiz?
+
+A coisa que eu mais estava gostando de fazer ultimamente: dormir.
+
+E como sempre, você não perdia a oportunidade de tirar selfie comigo dormindo ao fundo.
+
+Acho que eu tinha acabado de voltar de Santa Helena, porque tem essa foto linda de você com seu friche!`,
+    image: img23,
+    portrait: true,
+  },
+  {
+    id: 17,
+    side: "left",
+    tag: "Família",
+    date: "28 de fevereiro de 2025",
+    title: "Vindo pra Santa Helena em família",
+    preview:
+      "A Lísia foi pro hospital, buscamos a Laura e fomos na frente. Que família linda.",
+    story: `A Lísia foi pro hospital e lá estava demorando bastante, ela pediu pra que buscássemos a Laura e fôssemos vindo pra Santa Helena na frente, porque ela achava que ainda ia demorar bastante.
+
+Pela data, acho que estávamos vindo parar o carnaval que passamos na casa da Vitória.
+
+Olha essa "família", que bela! Eu amo essa foto.`,
+    image: img24,
+    portrait: true,
+  },
+  {
+    id: 18,
+    side: "right",
+    tag: "Cotidiano",
+    date: "22 de março de 2025",
+    title: "Você pelos meus olhos",
+    preview:
+      "Como eu te admiro. Os dois gordinhos da lancheira no LifeBox, enchendo o pandu.",
+    story: `Você pelos meus olhos!
+
+Como eu te admiro, como eu amo te olhar... como me sinto o homem mais sortudo de ter você ao meu lado.
+
+A gente fazendo o que mais gostava, os dois gordinhos da lancheira no LifeBox, enchendo o pandu.`,
+    image: img25,
+    portrait: true,
+  },
+  {
+    id: 19,
+    side: "left",
+    tag: "Momento especial",
+    date: "05 de abril de 2025",
+    title: "Comemorando a sua vida",
+    preview:
+      "Viva você, viva sua vida! Que felicidade de poder celebrar o meu amor.",
+    story: `Viva você, viva sua vida! Não pude participar da primeira comemoração do seu aniversário, porque tinha sido no mesmo dia do aniversário da Laura em 2024.
+
+Aqui eu estava muito feliz de poder celebrar você, celebrar sua vida... sua saúde! Comemorar o meu amor, meu benzinho, meu shrek, meu corujinha... meu namorado!
+
+Que felicidade de poder estar presente nessa data com a pessoa que eu amo, com a pessoa que vejo como inspiração, com a pessoa por quem tenho uma admiração imensurável.
+
+A pessoa que me olha sem julgamento, a pessoa que me estende a mão quando estou no fundo do poço, a pessoa que me ajuda a melhorar, a pessoa que me mostra o caminho quando tudo parece estar escuro... a pessoa que me ajudou a ser um ser humano melhor!
+
+TE AMO TE AMO TE AMO.`,
+    images: [img26, img27],
+    image: img26,
+    portrait: true,
+  },
+  {
+    id: 20,
+    side: "right",
+    tag: "Cotidiano",
+    date: "27 de abril de 2025",
+    title: "Mais uma viagem para Santa Helena",
+    preview:
+      "Essa carinha de quem te aguentou cantando todas as músicas que passaram no som.",
+    story: `Mais uma viagem para Santa Helena, não tem muito o que dizer...
+
+Essa carinha de quem te aguentou cantando todas as músicas que passaram no som.`,
+    image: img28,
+    portrait: true,
+  },
+  {
+    id: 21,
+    side: "left",
+    tag: "Família",
+    date: "17 de maio de 2025",
+    title: "Santa Helena de novo...",
+    preview:
+      "Over and over again. Aniversário de 80 anos com mais energia que a gente junto.",
+    story: `Viemos para Santa Helena mais uma vez... over and over again.
+
+Dessa vez viemos para o aniversário da mãe da minha madrinha. Uma senhora de 80 anos que tem muito mais energia que nós dois juntos.
+
+Depois fomos pra quadra de beach tênis com a Vitória, você curtindo ao máximo os carros de som.`,
+    image: img29,
+    portrait: true,
+  },
+  {
+    id: 22,
+    side: "right",
+    tag: "Amigos",
+    date: "31 de maio de 2025",
+    title: "Cinema com meus amores",
+    preview:
+      "Eu, meu benzinho e minha tutuquinha! Fomos assistir Meu Malvado Favorito.",
+    story: `Fomos ao cinema, eu, meu benzinho e minha tutuquinha!
+
+Fomos assistir a Meu Malvado Favorito, não foi?`,
+    image: img52,
+    portrait: true,
+  },
+  {
+    id: 24,
+    side: "left",
+    tag: "Momento especial",
+    date: "12 de junho de 2025",
+    title: "Dia dos namorados",
+    preview:
+      "Nosso primeiro dia dos namorados. Lasanha, aquele vinho, e você sorrindo assim. Derreteu.",
+    story: `Nosso primeiro dia dos namorados juntos.
+
+Você pelos meus olhos — como eu adoro ficar te olhando, como me derreto por esse sorriso... como eu te acho lindo!
+
+Sou grato por ter você em minha vida. TE AMO TANTO.
+
+Fiz o seu preferido, lasanha. Abrimos aquele vinho que o aluno do Felipe tinha me dado na pizzaria. Estava tão feliz em poder compartilhar esse dia com você.`,
+    images: [img30, img31],
+    image: img30,
+    portrait: true,
+  },
+  {
+    id: 24,
+    side: "right",
+    tag: "Meu aniversário",
+    date: "14 de junho de 2025",
+    title: "Meu aniversário",
+    preview:
+      "Nunca fui muito de aniversário — mas esse foi diferente. Porque eu comemoraria com você.",
+    story: `Meu aniversário nunca foi uma data que dei tanta importância assim, mas não sei por que esse em específico foi um que eu estava bastante ansioso, bastante animado em comemorar. Foram dias planejando essa festa para que eu pudesse receber meus amigos em casa.
+
+Acho que esse foi diferente dos demais porque eu comemoraria com você — o primeiro de muitos. Várias pessoas vindo de Goiânia, sua família... me senti muito amado e querido nesse dia.
+
+Olha o meu sorrisão ao seu lado, o sorriso de alguém que está do lado de uma das pessoas mais importantes da sua vida, de alguém que você só tem a agradecer por ter a oportunidade de conviver junto e de poder compartilhar tantos momentos bons e importantes juntos.
+
+Obrigado por tudo, obrigado pela sua presença, obrigado pelo seu ombro amigo, obrigado pelo seu colo quando eu mais preciso. Acima de tudo, obrigado por ser você...
+
+TE AMO.`,
+    images: [img32, img33],
+    image: img32,
+    portrait: true,
+  },
+  {
+    id: 25,
+    side: "left",
+    tag: "Amigos",
+    date: "28 de junho de 2025",
+    title: "Quadrilha dos escoteiros",
+    preview:
+      "Show da Bruna Louise, muito riso, e depois quadrilha dos escoteiros. Comilança, claro.",
+    story: `Fomos ao show da Bruna Louise, nos acabamos de rir, lembra?
+
+Depois fomos para a quadrilha dos escoteiros e como sempre... comilança.`,
+    image: img34,
+    portrait: true,
+  },
+  {
+    id: 26,
+    side: "right",
+    tag: "Cotidiano",
+    date: "09/11 de julho de 2025",
+    title: "Santa Helena de novo...",
+    preview:
+      "Fui te encher o saco enquanto você trabalhava. Fazendo você de experimento, minha cacatua.",
+    story: `Mais uma vinda pra Santa Helena, enquanto você trabalhava fui te encher o saco... fazendo você de meu experimento, minha cacatua.
+
+Depois você brincando com o doguinho no Casarão quando já estávamos voltando para Goiânia.`,
+    images: [img35, img36],
+    image: img35,
+    portrait: true,
+  },
+  {
+    id: 27,
+    side: "left",
+    tag: "Cotidiano",
+    date: "19 de julho de 2025",
+    title: "Passeio com a Luna",
+    preview: "Sempre me incentivando a criar esse hábito. Meus dois amores.",
+    story: `Sempre passeando com a Luna e me incentivando a criar esse hábito.
+
+Meus dois amores, como eu gosto de admirar vocês.`,
+    image: img37,
+    portrait: true,
+  },
+  {
+    id: 28,
+    side: "right",
+    tag: "Amigos",
+    date: "20 de julho de 2025",
+    title: "Sendo xovens",
+    preview: "Uma noite sendo xovens na Roxy.",
+    story: `Uma noite sendo xovens na Roxy.`,
+    image: img38,
+    portrait: true,
+  },
+  {
+    id: 29,
+    side: "left",
+    tag: "Família",
+    date: "03 de agosto de 2025",
+    title: "Madero",
+    preview:
+      "Madero com os meus dois amores! Como é bom ver o quanto vocês se dão bem.",
+    story: `Madero com os meus dois amores!
+
+Como é bom ver o quanto vocês se dão bem. Amo vocês.`,
+    image: img40,
+    portrait: true,
+  },
+  {
+    id: 30,
+    side: "right",
+    tag: "Amigos",
+    date: "16 de agosto de 2025",
+    title: "Aniversário da Lisandra",
+    preview: "Comemoração do aniversário da Lisandra.",
+    story: `Comemoração do aniversário da Lisandra.`,
+    image: img39,
+  },
+  {
+    id: 31,
+    side: "left",
+    tag: "Aventura",
+    date: "19/21 de setembro de 2025",
+    title: "Brasília e show da Katy Perry",
+    preview:
+      "Mais uma viagem, mais um show. Dessa vez fui gritar: o meu nome é Júlia!",
+    story: `Mais uma viagem juntos e mais um show juntos. Dessa vez Brasília para o show da Katy Perry — lembra o quanto eu estava ansioso para gritar: o meu nome é Júlia?
+
+Foi um show maravilhoso, me senti muito feliz de estar lá e mais ainda de poder compartilhar mais um momento desses com você do meu lado.
+
+Comemos bastante, você me levou naquela padaria incrível, com aquela croissant de pistache... nossa, saí de lá estourando.
+
+Fomos no Nazo, você me levando para ter a experiência de comer em um restaurante japonês com esteira... como sempre, saindo com o bucho explodindo de tanta comida.`,
+    images: [img41, img42],
+    image: img41,
+    portrait: true,
+  },
+  {
+    id: 32,
+    side: "right",
+    tag: "Amigos",
+    date: "11 de outubro de 2025",
+    title: "Ciao Ciao",
+    preview:
+      "Primeira vez no Ciao Ciao juntos. Com o Matheus, que estava com muita vontade de comida italiana.",
+    story: `Fomos ao Ciao Ciao pela primeira vez juntos — bom, não foi apenas um rolê nosso de casal.
+
+Estávamos com o Matheus, que estava com muita vontade de comer comida italiana.`,
+    images: [img43, img44],
+    image: img43,
+    portrait: true,
+  },
+  {
+    id: 33,
+    side: "left",
+    tag: "Família",
+    date: "25 de outubro de 2025",
+    title: "Aniversário do meu avô",
+    preview: "Essa amizade sua com minha mãe deixa meu coração quentinho.",
+    story: `Aniversário do meu avô na garagem dele.
+
+Como eu amo ver sua interação com minha família. Como eu amo ver essa sua amizade com minha mãe — deixa meu coração quentinho e muito feliz.`,
+    image: img45,
+    portrait: true,
+  },
+  {
+    id: 34,
+    side: "right",
+    tag: "Aventura",
+    date: "15/20 de novembro de 2025",
+    title: "Show da Dua Lipa",
+    preview:
+      "Mais uma vez São Paulo, tá virando rotina. Show sensacional, companhia maravilhosa.",
+    story: `Mais uma vez indo pra São Paulo, tá virando rotina, né?
+
+Dessa vez fomos para assistir ao show da Dua Lipa e para celebrar o aniversário do Vitor.
+
+Que show sensacional, que companhia maravilhosa, que dias perfeitos ao seu lado.
+
+Se eu fosse colocar tudo de sexo aqui e nos outros, ia parecer um soft porn... mas a gente sabe o fogo que a gente tinha, né? Não preciso nem comentar — não importava onde, nem quando, mas todo dia tinha.`,
+    images: [img47, img48, img49, img50],
+    image: img47,
+    portrait: true,
+  },
+  {
+    id: 35,
+    side: "left",
+    tag: "Cotidiano",
+    date: "31 de dezembro de 2025",
+    title: "Piscininha",
+    preview: "Meus dois amores se refrescando com um banho de piscina.",
+    story: `Meus dois amores se refrescando com um banho de piscina.`,
+    image: img51,
+    portrait: true,
+  },
+  {
+    id: 36,
+    side: "right",
+    tag: "Momento especial",
+    date: "01 de janeiro de 2026",
+    title: "Ano Novo",
+    preview:
+      "Mais um ano novo ao seu lado. Do lado do meu companheiro, do meu amor. TE AMO.",
+    story: `Mais um ano novo ao seu lado, do lado do meu companheiro, do meu amor, do meu parceiro, da pessoa que amo e uma das pessoas mais importantes para mim!
+
+TE AMO.`,
+    images: [img46, img53],
+    image: img46,
+    portrait: true,
+  },
+  {
+    id: 37,
+    side: "left",
+    tag: "Amigos",
+    date: "03 de janeiro de 2026",
+    title: "Cinema com meus amores",
+    preview:
+      "De novo eu, meu benzinho e minha tutuquinha! Dessa vez Como Treinar o Seu Dragão.",
+    story: `Fomos ao cinema, eu, meu benzinho e minha tutuquinha!
+
+Fomos assistir Como Treinar o Seu Dragão live action? Não lembro bem, mas que bom que a gente foi.`,
+    image: img54,
+    portrait: true,
+  },
+  {
+    id: 38,
+    side: "right",
+    tag: "Aventura",
+    date: "18/20 de janeiro de 2026",
+    title: "Ensaio da Anitta",
+    preview:
+      "Consegui arrastar o meu benzinho para os Ensaios da Anitta. Obrigado por ter encarado essa comigo.",
+    story: `Consegui arrastar o meu benzinho para os Ensaios da Anitta — olha a cara dele de felicidade de estar ali curtindo o show da patroa comigo!
+
+Obrigado por ter encarado essa comigo.`,
+    images: [img55, img56, img57],
+    image: img55,
+    portrait: true,
+  },
+  {
+    id: 39,
+    side: "left",
+    tag: "Viagem",
+    date: "20 de janeiro a 04 de fevereiro de 2026",
+    title: "Muro Alto",
+    preview:
+      "Nossa viagem para a praia. Tão esperada, tão planejada, tão especial. Eu contava os dias.",
+    story: `Nossa viagem para a praia, que momento esperado, planejado e especial. Estava contando os dias para esse momento. O tanto que conversamos, nos preparamos e ficamos ansiosos para que esse dia chegasse.
+
+Foram dias incríveis com você, e quando digo incríveis, é porque de fato foram. Tantas risadas, tanta comida, tanto sexo, carinho, amor, cumplicidade. Tivemos momentos maravilhosos na piscina, andando pela praia, eu com medo de andar pelo mar pra irmos pros corais.
+
+Nosso frozen de quase 4 metros de altura, eu reclamando de andar muito pra ir na igrejinha, kkkk. Eu e minha preguiça infinita.
+
+Eu ainda não tinha chegado nessa parte, e hoje escrevo ela com os olhos cheios de lágrimas em lembrar de todos esses momentos e de como eu, com meu jeito impulsivo, estraguei tudo em apenas um dia. Hoje olho para trás e me arrependo de cada palavra que disse, do meu modo de agir e do meu tratamento de silêncio. Ah... se eu pudesse, eu teria feito tudo diferente, eu teria respirado, eu teria contado até 10, eu teria sido outro... uma pena que não posso voltar no tempo. Daqui em diante eu comecei a estragar tudo, mês a mês.
+
+Se você soubesse a dor que isso me causa, o arrependimento, a tristeza, a raiva de mim, a cobrança... dentre tantos outros sentimentos ruins. Principalmente a CULPA.
+
+Mesmo assim, sei o quanto TE AMO.`,
+    images: [img58, img62, img63, img59, img64, img60, img61],
+    image: img58,
+    portrait: true,
+  },
+  {
+    id: 40,
+    side: "right",
+    tag: "Festival",
+    date: "21 de março de 2026",
+    title: "Lolla 2026",
+    preview: "Nosso primeiro festival.",
+    story: `Nosso primeiro festival juntos e infelizmente não íamos curtir todos os dias juntos. 
+    
+    Você com sua viagem marcada para seu primeiro treinamento do trabalho novo, eu estava super feliz por você e ao mesmo tempo bem triste porque ficaria sozinho. 
+    
+    Curtimos bastante o primeiro dia, sempre curto os shows quando estou ao seu lado. Me divirto bastante, me transbordo de felicidade quando te vejo curtir em plenitude, você fica radiante.  
+    
+    Esse é mais um step que escrevo aos prantos pensando que você já não estava feliz, que eu já tinha te causado muita dor e tinha te quebrado em pedaços. Pensando em como tanta coisa poderia ter sido feita de outra forma, como tantos comportamentos meus poderiam ter se dado de outra forma. Como eu poderia ter reagido a tudo de maneira mais calma e menos impulsiva, mas ainda assim na certeza do quanto eu TE AMO e do quanto você é importante para mim, o quanto sinto sua falta, saudade e vontade de conversar com você diariamente.`,
+    images: [img65, img66],
+    image: img65,
+    portrait: true,
+  },
+  {
+    id: 41,
+    side: "left",
+    tag: "Dream",
+    date: "19 de maio de 2026",
+    title: "Sonhando",
+    preview: "Pensando em como as coisas poderiam ter sido diferentes.",
+    story: `Chorando, com raiva de mim mesmo, me culpando, com muita dor dentro do peito, me sentindo o pior namorado do mundo.
+    
+    Deixei ir embora a pessoa que fez de tudo por mim, me estendeu a mão quando mais ninguém estava lá, me deu colo, me deu ombro amigo, cuidou de mim e fez tudo pelo relacionamento.
+
+    Eu simplesmente peguei isso tudo e joguei fora. Quebrei o coração da pessoa que era extremamente importante para mim. A pessoa que eu AMO, que eu sonho em construir uma vida, que eu quero curtir mais momentos juntos, que tem tanta coisa que quero conhecer ao lado e se feliz.
+
+    Eu nao estou sabendo como lidar com tudo isso, tem dias que a dor vem e arrebenta tudo por dentro, tem dias que a dor é mais leve, tem dias que a saudade é tão grande que parece que o peito vai explodir.
+
+    Constantemente com saudade, pensando em voce, com vontade de ouvir sua voz e te mandar uma mensagem. Pensando em como as coisas poderiam ter sido diferentes.
+
+    Pensando num futuro que talvez nunca aconteça, nunca chegue e talvez começar a acostumar com um presente onde você não estará mais aqui.
+
+    De qualquer forma, voce ainda é muito importante para mim e eu ainda TE AMO muito.
+    `,
+    portrait: true,
+  },
   // ── ADD MORE MOMENTS HERE ────────────────────────────────────────────────
   // {
   //   id: 3,
@@ -370,8 +887,8 @@ const css = `
 
   /* CAROUSEL */
   .carousel { position: relative; width: 100%; aspect-ratio: 3/4; overflow: hidden; background: var(--steel); }
-  .carousel-slides { display: flex; width: 100%; height: 100%; transition: transform 0.45s cubic-bezier(0.4,0,0.2,1); }
-  .carousel-slide { min-width: 100%; height: 100%; position: relative; flex-shrink: 0; }
+  .carousel-slides { display: flex; flex-wrap: nowrap; width: 100%; height: 100%; transition: transform 0.45s cubic-bezier(0.4,0,0.2,1); will-change: transform; }
+  .carousel-slide { width: 100%; min-width: 100%; max-width: 100%; height: 100%; position: relative; flex-shrink: 0; flex-grow: 0; overflow: hidden; }
   .carousel-slide img { width: 100%; height: 100%; object-fit: cover; object-position: center 10%; display: block; transition: filter 0.35s, transform 0.4s; }
   .card:hover .carousel-slide img { filter: brightness(1.05) contrast(1.05); transform: scale(1.04); }
   .carousel-btn {
@@ -397,18 +914,13 @@ const css = `
   .carousel-dot.active { background: var(--red); transform: scale(1.3); }
 
   /* Modal carousel */
-  .modal-carousel { position: relative; width: 100%; aspect-ratio: 3/4; max-height: 60vh; overflow: hidden; background: var(--steel); }
-  .modal-carousel-slides { display: flex; height: 100%; transition: transform 0.45s cubic-bezier(0.4,0,0.2,1); }
-  .modal-carousel-slide { min-width: 100%; height: 100%; flex-shrink: 0; position: relative; }
-  .modal-carousel-slide img { width: 100%; height: 100%; object-fit: cover; object-position: center 10%; display: block; }
-  .modal-carousel-slide::after {
-    content: ''; position: absolute; inset: 0;
-    background: linear-gradient(to bottom, transparent 55%, rgba(0,0,0,0.6) 100%);
-    pointer-events: none;
-  }
-  .modal-carousel-slide::before {
+  .modal-carousel { position: relative; width: 100%; background: var(--steel); }
+  .modal-carousel-slides { display: flex; flex-wrap: nowrap; width: 100%; transition: transform 0.45s cubic-bezier(0.4,0,0.2,1); will-change: transform; align-items: flex-start; }
+  .modal-carousel-slide { width: 100%; min-width: 100%; max-width: 100%; flex-shrink: 0; flex-grow: 0; position: relative; overflow: hidden; }
+  .modal-carousel-slide img { width: 100%; height: auto; max-height: 70vh; object-fit: contain; object-position: center top; display: block; background: var(--steel); }
+  .modal-carousel::before {
     content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
-    background: var(--red); z-index: 2;
+    background: var(--red); z-index: 5;
   }
   .modal-carousel-btn {
     position: absolute; top: 50%; transform: translateY(-50%);
@@ -599,27 +1111,20 @@ const css = `
   .overlay.open .modal { transform: none; }
   .modal-img-wrap {
     width: 100%; position: relative; background: var(--steel);
-    display: flex; align-items: center; justify-content: center; overflow: hidden;
   }
-  .modal-img-wrap.landscape { aspect-ratio: 16/9; }
-  .modal-img-wrap.portrait  { aspect-ratio: 3/4; max-height: 60vh; }
   .modal-img-wrap::before {
     content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
     background: var(--red); z-index: 2;
   }
-  .modal-img-wrap::after {
-    content: ''; position: absolute; inset: 0;
-    background: linear-gradient(to bottom, transparent 60%, rgba(0,0,0,0.5) 100%);
-    z-index: 1; pointer-events: none;
-  }
+  /* No forced aspect ratio — image determines its own height, never cropped */
   .modal-img {
-    width: 100%; height: 100%;
-    object-fit: cover;
+    width: 100%;
+    height: auto;
+    max-height: 75vh;
+    object-fit: contain;
     object-position: center top;
     display: block;
-  }
-  .modal-img-wrap.portrait .modal-img {
-    object-position: center 15%;
+    background: var(--steel);
   }
   .modal-placeholder {
     width: 100%; aspect-ratio: 16/9; background: var(--steel);
@@ -701,9 +1206,77 @@ const css = `
 `;
 
 // ── COMPONENT ─────────────────────────────────────────────────────────────────
+const Carousel = ({ images, momentId, stopPropagation = false }) => {
+  const [idx, setIdx] = useState(0);
+  const go = (e, dir) => {
+    if (stopPropagation) e.stopPropagation();
+    setIdx((prev) => (prev + dir + images.length) % images.length);
+  };
+  const dotGo = (e, i) => {
+    if (stopPropagation) e.stopPropagation();
+    setIdx(i);
+  };
+  return (
+    <div className={stopPropagation ? "modal-carousel" : "carousel"}>
+      <div
+        className={
+          stopPropagation ? "modal-carousel-slides" : "carousel-slides"
+        }
+        style={{ transform: `translateX(-${idx * 100}%)` }}
+      >
+        {images.map((src, i) => (
+          <div
+            key={i}
+            className={
+              stopPropagation ? "modal-carousel-slide" : "carousel-slide"
+            }
+          >
+            <img src={src} alt={`slide ${i + 1}`} />
+          </div>
+        ))}
+      </div>
+      {images.length > 1 && (
+        <>
+          <button
+            className={
+              stopPropagation ? "modal-carousel-btn prev" : "carousel-btn prev"
+            }
+            onClick={(e) => go(e, -1)}
+          >
+            ‹
+          </button>
+          <button
+            className={
+              stopPropagation ? "modal-carousel-btn next" : "carousel-btn next"
+            }
+            onClick={(e) => go(e, 1)}
+          >
+            ›
+          </button>
+          <div
+            className={
+              stopPropagation ? "modal-carousel-dots" : "carousel-dots"
+            }
+          >
+            {images.map((_, i) => (
+              <button
+                key={i}
+                className={
+                  (stopPropagation ? "modal-carousel-dot" : "carousel-dot") +
+                  (i === idx ? " active" : "")
+                }
+                onClick={(e) => dotGo(e, i)}
+              />
+            ))}
+          </div>
+        </>
+      )}
+    </div>
+  );
+};
+
 export default function LoveTimeline() {
   const [activeModal, setActiveModal] = useState(null);
-  const [carouselIdx, setCarouselIdx] = useState({});
   const momentRefs = useRef([]);
 
   useEffect(() => {
@@ -739,82 +1312,6 @@ export default function LoveTimeline() {
       document.body.style.overflow = "";
     };
   }, [activeModal]);
-
-  const Carousel = ({ images, momentId, stopPropagation = false }) => {
-    const idx = carouselIdx[momentId] || 0;
-    const go = (e, dir) => {
-      if (stopPropagation) e.stopPropagation();
-      setCarouselIdx((prev) => ({
-        ...prev,
-        [momentId]: (idx + dir + images.length) % images.length,
-      }));
-    };
-    const dotGo = (e, i) => {
-      if (stopPropagation) e.stopPropagation();
-      setCarouselIdx((prev) => ({ ...prev, [momentId]: i }));
-    };
-    return (
-      <div className={stopPropagation ? "modal-carousel" : "carousel"}>
-        <div
-          className={
-            stopPropagation ? "modal-carousel-slides" : "carousel-slides"
-          }
-          style={{ transform: `translateX(-${idx * 100}%)` }}
-        >
-          {images.map((src, i) => (
-            <div
-              key={i}
-              className={
-                stopPropagation ? "modal-carousel-slide" : "carousel-slide"
-              }
-            >
-              <img src={src} alt={`slide ${i + 1}`} />
-            </div>
-          ))}
-        </div>
-        {images.length > 1 && (
-          <>
-            <button
-              className={
-                stopPropagation
-                  ? "modal-carousel-btn prev"
-                  : "carousel-btn prev"
-              }
-              onClick={(e) => go(e, -1)}
-            >
-              ‹
-            </button>
-            <button
-              className={
-                stopPropagation
-                  ? "modal-carousel-btn next"
-                  : "carousel-btn next"
-              }
-              onClick={(e) => go(e, 1)}
-            >
-              ›
-            </button>
-            <div
-              className={
-                stopPropagation ? "modal-carousel-dots" : "carousel-dots"
-              }
-            >
-              {images.map((_, i) => (
-                <button
-                  key={i}
-                  className={
-                    (stopPropagation ? "modal-carousel-dot" : "carousel-dot") +
-                    (i === idx ? " active" : "")
-                  }
-                  onClick={(e) => dotGo(e, i)}
-                />
-              ))}
-            </div>
-          </>
-        )}
-      </div>
-    );
-  };
 
   return (
     <>
@@ -890,7 +1387,7 @@ export default function LoveTimeline() {
                   </div>
                 ) : (
                   <div className="card-placeholder">
-                    <span>{m.emoji || "⚡"}</span>
+                    <span>{m.emoji || "💔"}</span>
                     <div className="card-date-badge">{m.date}</div>
                   </div>
                 )}
@@ -982,12 +1479,7 @@ export default function LoveTimeline() {
                   stopPropagation={true}
                 />
               ) : activeModal.image ? (
-                <div
-                  className={
-                    "modal-img-wrap" +
-                    (activeModal.portrait ? " portrait" : " landscape")
-                  }
-                >
+                <div className="modal-img-wrap">
                   <img
                     src={activeModal.image}
                     alt={activeModal.title}
@@ -996,7 +1488,7 @@ export default function LoveTimeline() {
                 </div>
               ) : (
                 <div className="modal-placeholder">
-                  <span>{activeModal.emoji || "⚡"}</span>
+                  <span>{activeModal.emoji || "💔"}</span>
                 </div>
               )}
               <div className="modal-body">
