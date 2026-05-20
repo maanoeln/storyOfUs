@@ -912,7 +912,6 @@ export default function LoveTimeline() {
 
       {/* PLAYLIST */}
       <section className="playlist-section">
-        <div className="playlist-bg-word">PLAY</div>
         <div className="playlist-inner">
           <div className="playlist-header">
             <h2 className="playlist-title">
