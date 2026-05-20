@@ -3,8 +3,8 @@ import LoveTimeline from "./LoveTimeline";
 export default function App() {
   return (
     <>
-      <Analytics />
       <LoveTimeline />;
+      <Analytics />
     </>
   );
 }
