@@ -3,7 +3,7 @@ import LoveTimeline from "./LoveTimeline";
 export default function App() {
   return (
     <div>
-      <LoveTimeline />;
+      <LoveTimeline />
       <Analytics />
     </div>
   );
